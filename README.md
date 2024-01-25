@@ -9,10 +9,15 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 - Program a server (e.g. using PHP, ASP, Python, or Node)
 - Program a database (e.g. using SQL, SQLite, or MongoDB)
 ## Advantages
-The advantage of being a full-stack web developer is:
 
 - You can master all the techniques involved in a development project
 - You can make a prototype very rapidly
 - You can reduce the cost of the project
 - You can reduce the time used for team communication
 - You can switch between front- and back-end development based on requirements
+## Disadvantages
+
+- The solution chosen can be wrong for the project
+- The solution chosen can be dependent on developer skills
+- The solution can generate a key person risk
+- Being a full stack developer is increasingly complex
